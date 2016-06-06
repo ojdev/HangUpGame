@@ -1,0 +1,8 @@
+D:\程序设计与开发\HangUpGame\HangUpGame\obj\Debug\HangUpGame.csprojResolveAssemblyReference.cache
+D:\程序设计与开发\HangUpGame\HangUpGame\bin\Debug\HangUpGame.exe.config
+D:\程序设计与开发\HangUpGame\HangUpGame\bin\Debug\HangUpGame.exe
+D:\程序设计与开发\HangUpGame\HangUpGame\bin\Debug\HangUpGame.pdb
+D:\程序设计与开发\HangUpGame\HangUpGame\obj\Debug\HangUpGame.exe
+D:\程序设计与开发\HangUpGame\HangUpGame\obj\Debug\HangUpGame.pdb
+D:\程序设计与开发\HangUpGame\HangUpGame\obj\Debug\HangUpGame.World.resources
+D:\程序设计与开发\HangUpGame\HangUpGame\obj\Debug\HangUpGame.csproj.GenerateResource.Cache
